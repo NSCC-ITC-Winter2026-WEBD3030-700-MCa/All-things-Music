@@ -47,7 +47,7 @@ module.exports = {
       ],
     },
     { title: 'Live Editor', path: 'https://live.docmd.io', icon: 'pencil-ruler', external: true },
-    { title: 'GitHub', path: 'https://github.com/docmd-io/docmd', icon: 'github', external: true },
+    { title: 'GitHub', path: 'https://github.com/NSCC-ITC-Winter2026-WEBD3030-700-MCa/All-things-Music.git', icon: 'github', external: true },
   ],
 
   // --- Plugins ---
