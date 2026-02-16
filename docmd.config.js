@@ -37,16 +37,7 @@ module.exports = {
   // --- Navigation (Sidebar) ---
   navigation: [
     { title: 'Introduction', path: '/', icon: 'home' },
-    {
-      title: 'Guide',
-      icon: 'book-open',
-      collapsible: true,
-      children: [
-        { title: 'Getting Started', path: 'https://docs.docmd.io/getting-started/installation', icon: 'rocket', external: true },
-        { title: 'Configuration', path: 'https://docs.docmd.io/configuration', icon: 'settings', external: true },
-      ],
-    },
-    { title: 'Live Editor', path: 'https://live.docmd.io', icon: 'pencil-ruler', external: true },
+    { title: 'About', path: '/about', icon: 'book-open' },
     { title: 'GitHub', path: 'https://github.com/docmd-io/docmd', icon: 'github', external: true },
   ],
 
