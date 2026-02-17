@@ -1,7 +1,7 @@
 // docmd.config.js
 module.exports = {
   // --- Core Metadata ---
-  siteTitle: 'My Documentation',
+  siteTitle: 'All-things-Music',
   siteUrl: '', // e.g. https://mysite.com (Critical for SEO/Sitemap)
 
   // --- Branding ---
@@ -73,12 +73,12 @@ module.exports = {
   },
 
   // --- Footer ---
-  footer: '© ' + new Date().getFullYear() + ' My Project. Built with [docmd](https://docmd.io).',
+  footer: '© ' + new Date().getFullYear() + ' All-things-Music. Built with [docmd](https://docmd.io).',
   
   // --- Edit Link ---
   editLink: {
     enabled: false,
-    baseUrl: 'https://github.com/USERNAME/REPO/edit/main/docs',
+    baseUrl: 'https://github.com/NSCC-ITC-Winter2026-WEBD3030-700-MCa/All-things-Music/edit/main/docs',
     text: 'Edit this page'
   }
 };
