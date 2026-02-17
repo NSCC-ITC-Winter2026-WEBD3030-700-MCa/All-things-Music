@@ -37,6 +37,7 @@ module.exports = {
   // --- Navigation (Sidebar) ---
   navigation: [
     { title: 'Introduction', path: '/', icon: 'home' },
+    { title: 'About', path: '/about', icon: 'book-open' },
     {
       title: 'Genres',
       icon: 'music',
@@ -49,17 +50,7 @@ module.exports = {
         { title: 'Rock', path: '/genres/rock', icon: 'guitar' },
       ],
     },
-    {
-      title: 'Guide',
-      icon: 'book-open',
-      collapsible: true,
-      children: [
-        { title: 'Getting Started', path: 'https://docs.docmd.io/getting-started/installation', icon: 'rocket', external: true },
-        { title: 'Configuration', path: 'https://docs.docmd.io/configuration', icon: 'settings', external: true },
-      ],
-    },
-    { title: 'Live Editor', path: 'https://live.docmd.io', icon: 'pencil-ruler', external: true },
-    { title: 'GitHub', path: 'https://github.com/NSCC-ITC-Winter2026-WEBD3030-700-MCa/All-things-Music.git', icon: 'github', external: true },
+    { title: 'GitHub', path: 'https://github.com/docmd-io/docmd', icon: 'github', external: true },
   ],
 
   // --- Plugins ---
