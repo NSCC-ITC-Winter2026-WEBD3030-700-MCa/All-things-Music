@@ -12,8 +12,8 @@ Congratulations! You have successfully initialized a new **docmd** project.
 You are currently viewing the content of `docs/index.md`.
 
 ```bash
-npm start   # Start the dev server
-docmd build # Build for production
+npm run dev # Start the dev server
+npm run build # Build for production
 ```
 
 ## ✨ Features Demo
