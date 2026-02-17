@@ -38,6 +38,18 @@ module.exports = {
   navigation: [
     { title: 'Introduction', path: '/', icon: 'home' },
     {
+      title: 'Genres',
+      icon: 'music',
+      collapsible: false,
+      children: [
+        { title: 'Electronic', path: '/genres/electronic', icon: 'speaker' },
+        { title: 'Hip-Hop', path: '/genres/hip-hop', icon: 'drum' },
+        { title: 'Jazz', path: '/genres/jazz', icon: 'piano' },
+        { title: 'Pop', path: '/genres/pop', icon: 'mic-vocal' },
+        { title: 'Rock', path: '/genres/rock', icon: 'guitar' },
+      ],
+    },
+    {
       title: 'Guide',
       icon: 'book-open',
       collapsible: true,
