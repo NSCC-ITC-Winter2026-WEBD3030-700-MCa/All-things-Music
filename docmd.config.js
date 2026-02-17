@@ -1,7 +1,7 @@
 // docmd.config.js
 module.exports = {
   // --- Core Metadata ---
-  siteTitle: 'My Documentation',
+  siteTitle: 'All-things-Music',
   siteUrl: '', // e.g. https://mysite.com (Critical for SEO/Sitemap)
 
   // --- Branding ---
@@ -38,6 +38,18 @@ module.exports = {
   navigation: [
     { title: 'Introduction', path: '/', icon: 'home' },
     { title: 'About', path: '/about', icon: 'book-open' },
+    {
+      title: 'Genres',
+      icon: 'music',
+      collapsible: false,
+      children: [
+        { title: 'Electronic', path: '/genres/electronic', icon: 'speaker' },
+        { title: 'Hip-Hop', path: '/genres/hip-hop', icon: 'drum' },
+        { title: 'Jazz', path: '/genres/jazz', icon: 'piano' },
+        { title: 'Pop', path: '/genres/pop', icon: 'mic-vocal' },
+        { title: 'Rock', path: '/genres/rock', icon: 'guitar' },
+      ],
+    },
     { title: 'GitHub', path: 'https://github.com/docmd-io/docmd', icon: 'github', external: true },
   ],
 
@@ -64,12 +76,12 @@ module.exports = {
   },
 
   // --- Footer ---
-  footer: '© ' + new Date().getFullYear() + ' My Project. Built with [docmd](https://docmd.io).',
+  footer: '© ' + new Date().getFullYear() + ' All-things-Music. Built with [docmd](https://docmd.io).',
   
   // --- Edit Link ---
   editLink: {
     enabled: false,
-    baseUrl: 'https://github.com/USERNAME/REPO/edit/main/docs',
+    baseUrl: 'https://github.com/NSCC-ITC-Winter2026-WEBD3030-700-MCa/All-things-Music/edit/main/docs',
     text: 'Edit this page'
   }
 };
