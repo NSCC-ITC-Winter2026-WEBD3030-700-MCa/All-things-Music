@@ -3,7 +3,7 @@ title: "Folk Music"
 description: "Our favourite folk songs."
 ---
 
-# Classical
+# Folk
 
 ::: callout tip
 The home base for all things folk music
