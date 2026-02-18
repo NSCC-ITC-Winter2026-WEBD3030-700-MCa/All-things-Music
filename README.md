@@ -53,13 +53,19 @@ npm install
 This project uses the following npm scripts:
 
 #### Development Server
-To start the development server, use:
+To start the development server, use either:
+
+```bash
+npm start
+```
+
+or
 
 ```bash
 npm run dev
 ```
 
-This will start the development server using `docmd dev`, and you can view the project in your browser at `http://localhost:3000` (or the port specified in the terminal).
+Both commands will start the development server using `docmd dev`, and you can view the project in your browser at `http://localhost:3000` (or the port specified in the terminal).
 
 #### Build the Site
 To build the site for production, use:
