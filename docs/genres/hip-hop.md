@@ -14,7 +14,7 @@ This page docuements all kinds of hip-hop songs, including rap, trap, and many m
 ## Song Name
 
 ::: card
-...
+1. Parents Just Don’t Understand by Will Smith (1988).
 :::
 
 ## Song Name
