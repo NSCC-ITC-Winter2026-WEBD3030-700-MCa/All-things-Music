@@ -4,6 +4,7 @@ description: "Our favourite jazz songs."
 ---
 
 # Jazz
+Jazz is known for improvisation, swing rhythms, and expressive instrumental performances.
 
 ::: callout tip
 The home base for all things jazz music

@@ -4,6 +4,8 @@ description: "Our favourite hip-hop songs."
 ---
 
 # Hip-Hop
+Hip-hop combines rhythmic beats with rap vocals and often reflects culture, identity, and social issues.
+
 
 ::: callout tip
 The home base for all things hip-hop music

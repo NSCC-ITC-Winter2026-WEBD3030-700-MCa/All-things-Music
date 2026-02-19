@@ -4,6 +4,7 @@ description: "Our favourite Pop songs."
 ---
 
 # Pop
+Pop music is designed for wide appeal, featuring catchy melodies and simple song structures.
 
 ::: callout tip
 The home base for all things pop music

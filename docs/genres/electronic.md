@@ -4,6 +4,7 @@ description: "Our favourite electronic songs."
 ---
 
 # Electronic
+Electronic music uses digital instruments and production techniques to create synthesized sounds and beats.
 
 ::: callout tip
 The home base for all things electronic music

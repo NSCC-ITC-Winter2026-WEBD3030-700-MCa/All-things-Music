@@ -4,6 +4,7 @@ description: "Our favourite folk songs."
 ---
 
 # Folk
+Folk music is rooted in tradition, often telling stories through simple melodies and acoustic instruments.
 
 ::: callout tip
 The home base for all things folk music

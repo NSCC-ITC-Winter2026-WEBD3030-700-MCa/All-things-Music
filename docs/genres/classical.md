@@ -4,6 +4,7 @@ description: "Our favourite classical songs."
 ---
 
 # Classical
+Classical music is a formal and structured genre known for orchestral compositions, complex harmonies, and influential composers like Mozart and Beethoven.
 
 ::: callout tip
 The home base for all things classical music
