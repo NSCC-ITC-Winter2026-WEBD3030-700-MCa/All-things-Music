@@ -38,6 +38,7 @@ module.exports = {
   navigation: [
     { title: 'Introduction', path: '/', icon: 'home' },
     { title: 'About', path: '/about', icon: 'book-open' },
+    { title: 'Feedback', path: '/feedback', icon: 'message' },
     {
       title: 'Genres',
       icon: 'music',
@@ -95,6 +96,7 @@ module.exports = {
         <a href="/about">About</a>
         <a href="/genres/blues">Genres</a>
         <a href="/instruments/guitar">Instruments</a>
+        <a href="/feedback">Feedback</a>
         <a href="https://github.com/NSCC-ITC-Winter2026-WEBD3030-700-MCa/All-things-Music" target="_blank">GitHub</a>
       </nav>
       <span style="font-size:0.95em;">© ${new Date().getFullYear()} All-things-Music. Built with <a href="https://docmd.io" target="_blank">docmd</a>.</span>
