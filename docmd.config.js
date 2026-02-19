@@ -54,6 +54,13 @@ module.exports = {
         { title: 'Rock', path: '/genres/rock', icon: 'activity' },
       ],
     },
+    {
+      title: 'Instruments',
+      icon: 'guitar',
+      collapsible: false,
+      children: [
+      ],
+    },
     { title: 'GitHub', path: 'https://github.com/docmd-io/docmd', icon: 'github', external: true },
   ],
 
