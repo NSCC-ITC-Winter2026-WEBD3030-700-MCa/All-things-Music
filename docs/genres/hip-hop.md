@@ -20,5 +20,5 @@ This page docuements all kinds of hip-hop songs, including rap, trap, and many m
 ## Song Name
 
 ::: card
-...
+2. Poor Thang (2026) by J Cole.
 :::
