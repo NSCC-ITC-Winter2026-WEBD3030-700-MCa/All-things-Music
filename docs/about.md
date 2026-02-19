@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "About All-things-Music."
+Title: "About"
+Description: "About All-things-Music."
 ---
 
 # About All-things-Music
