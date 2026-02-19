@@ -41,7 +41,7 @@ module.exports = {
     {
       title: 'Genres',
       icon: 'music',
-      collapsible: false,
+      collapsible: true,
       children: [
         { title: 'Electronic', path: '/genres/electronic', icon: 'speaker' },
         { title: 'Hip-Hop', path: '/genres/hip-hop', icon: 'drum' },
