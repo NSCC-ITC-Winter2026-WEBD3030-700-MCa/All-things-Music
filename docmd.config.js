@@ -36,7 +36,7 @@ module.exports = {
 
   // --- Navigation (Sidebar) ---
   navigation: [
-    { title: 'Introduction', path: '/', icon: 'home' },
+    
     { title: 'About', path: '/about', icon: 'book-open' },
     {
       title: 'Genres',
