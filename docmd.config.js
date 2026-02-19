@@ -41,7 +41,7 @@ module.exports = {
     {
       title: 'Genres',
       icon: 'music',
-      collapsible: false,
+      collapsible: true,
       children: [
         { title: 'Blues', path: '/genres/blues', icon: 'hand-fist' },
         { title: 'Classical', path: '/genres/classical', icon: 'music-4' },
