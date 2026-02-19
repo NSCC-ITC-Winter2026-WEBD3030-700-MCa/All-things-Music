@@ -9,6 +9,10 @@ description: "Our favourite hip-hop songs."
 The home base for all things hip-hop music
 :::
 
+::: callout info
+🎵 **Songs listed:** 4
+:::
+
 Hip-hop is a cultural movement and music genre that emerged in the South Bronx in the 1970s. Built on four pillars — DJing, MCing, breakdancing, and graffiti — hip-hop has grown into one of the most dominant and influential music genres in the world.
 
 ## Parents Just Don't Understand
@@ -24,7 +28,7 @@ A Grammy Award-winning comedic hip-hop classic featuring Will Smith rapping abou
 ::: card
 **Lose Yourself** by Eminem (2002)
 
-The Oscar-winning anthem from the film *8 Mile*, capturing the intensity and determination of seizing a single opportunity. One of the greatest hip-hop songs ever recorded.
+The Oscar-winning anthem from the film _8 Mile_, capturing the intensity and determination of seizing a single opportunity. One of the greatest hip-hop songs ever recorded.
 :::
 
 ## HUMBLE.

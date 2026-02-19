@@ -9,6 +9,10 @@ description: "Our favourite rap songs."
 The home base for all things rap music
 :::
 
+::: callout info
+🎵 **Songs listed:** 4
+:::
+
 Rap is a vocal style and music genre built on rhythm, rhyme, and storytelling. Originating as part of the hip-hop movement, rap has evolved into a global art form spanning countless regional styles, from East Coast lyricism to Southern trap and West Coast G-funk.
 
 ## Miami
@@ -40,5 +44,5 @@ A vivid and intense portrait of life in Compton, California. Kendrick's storytel
 ::: card
 **All Falls Down** by Kanye West feat. Syleena Johnson (2004)
 
-A soulful and introspective rap track from Kanye's debut album *The College Dropout*, critiquing consumerism and insecurity with heartfelt honesty.
+A soulful and introspective rap track from Kanye's debut album _The College Dropout_, critiquing consumerism and insecurity with heartfelt honesty.
 :::

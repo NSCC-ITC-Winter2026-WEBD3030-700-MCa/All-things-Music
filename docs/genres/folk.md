@@ -9,6 +9,10 @@ description: "Our favourite folk songs."
 The home base for all things folk music
 :::
 
+::: callout info
+🎵 **Songs listed:** 4
+:::
+
 Folk music is a genre rooted in the oral traditions of communities around the world, telling stories of everyday life, struggle, love, and history. From acoustic ballads to protest songs, folk music has always been the voice of the people.
 
 ## Blowin' in the Wind
@@ -32,7 +36,7 @@ A haunting acoustic folk song exploring themes of isolation and failed communica
 ::: card
 **Both Sides Now** by Joni Mitchell (1969)
 
-A reflective and poetic folk classic from Joni Mitchell's landmark album *Clouds*, exploring life's illusions and the complexity of human experience.
+A reflective and poetic folk classic from Joni Mitchell's landmark album _Clouds_, exploring life's illusions and the complexity of human experience.
 :::
 
 ## Fast Car

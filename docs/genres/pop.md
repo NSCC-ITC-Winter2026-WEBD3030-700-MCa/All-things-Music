@@ -9,6 +9,10 @@ description: "Our favourite Pop songs."
 The home base for all things pop music
 :::
 
+::: callout info
+🎵 **Songs listed:** 4
+:::
+
 Pop music is a genre characterised by catchy melodies, relatable lyrics, and broad commercial appeal. Constantly evolving, it draws influences from nearly every other genre and dominates charts around the world.
 
 ## Blinding Lights

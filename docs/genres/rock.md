@@ -9,6 +9,10 @@ description: "Our favourite rock songs."
 The home base for all things rock music
 :::
 
+::: callout info
+🎵 **Songs listed:** 4
+:::
+
 Rock music is a broad genre that emerged in the 1950s from rock and roll, blues, and country. Known for its electric guitar-driven sound, powerful rhythms, and energetic performances, rock has evolved into countless sub-genres including classic rock, punk, metal, and alternative.
 
 ## Sweet Home Alabama

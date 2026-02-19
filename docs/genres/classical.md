@@ -9,6 +9,10 @@ description: "Our favourite classical songs."
 The home base for all things classical music
 :::
 
+::: callout info
+🎵 **Songs listed:** 4
+:::
+
 Classical music is a broad tradition of Western art music spanning centuries, from the Baroque period to the modern era. Celebrated for its complexity, emotional depth, and technical mastery, classical music continues to inspire musicians and listeners worldwide.
 
 ## Cello Suite No. 1

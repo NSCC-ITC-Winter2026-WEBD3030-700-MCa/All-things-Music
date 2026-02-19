@@ -9,6 +9,10 @@ description: "Our favourite electronic songs."
 The home base for all things electronic music
 :::
 
+::: callout info
+🎵 **Songs listed:** 4
+:::
+
 Electronic music encompasses a vast range of genres produced using synthesisers, drum machines, and digital audio workstations. From the underground clubs of Detroit and Chicago to global festival stages, electronic music has continually pushed the boundaries of sound.
 
 ## Clarity

@@ -9,6 +9,10 @@ description: "Our favourite blues songs."
 The home base for all things blues music
 :::
 
+::: callout info
+🎵 **Songs listed:** 4
+:::
+
 Blues is a music genre originating in the Deep South of the United States, rooted in African-American work songs, spirituals, and folk music. Known for its soulful expression of hardship and resilience, the blues laid the foundation for rock, jazz, and R&B.
 
 ## Little Red Rooster

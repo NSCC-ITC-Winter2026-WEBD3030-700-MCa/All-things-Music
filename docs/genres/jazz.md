@@ -9,6 +9,10 @@ description: "Our favourite jazz songs."
 The home base for all things jazz music
 :::
 
+::: callout info
+🎵 **Songs listed:** 4
+:::
+
 Jazz is an American music genre that originated in New Orleans in the late 19th and early 20th centuries. Characterised by improvisation, swing, and complex harmonies, jazz has branched into countless sub-genres including bebop, fusion, smooth jazz, and beyond.
 
 ## Round Midnight
@@ -24,7 +28,7 @@ One of the most recorded jazz standards ever written, Monk's moody and introspec
 ::: card
 **So What** by Miles Davis (1959)
 
-The opening track of *Kind of Blue* — the best-selling jazz album of all time — "So What" is a modal jazz masterpiece defined by its cool, relaxed groove.
+The opening track of _Kind of Blue_ — the best-selling jazz album of all time — "So What" is a modal jazz masterpiece defined by its cool, relaxed groove.
 :::
 
 ## Take Five
