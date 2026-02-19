@@ -14,7 +14,7 @@ This page records all kinds of electronic songs, from house to hardcore, techno 
 ## Song Name
 
 ::: card
-...
+1. Clarity by Zedd Feat. Foxes (2012).
 :::
 
 ## Song Name

@@ -14,7 +14,7 @@ This page records all kinds of blues songs expressing struggle and triumph from 
 ## Song Name
 
 ::: card
-...
+1. Little Red Rooster by Howlin’ Wolf (1961).
 :::
 
 ## Song Name
