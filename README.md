@@ -53,6 +53,7 @@ npm install
 This project uses the following npm scripts:
 
 #### Development Server
+
 To start the development server, use either:
 
 ```bash
@@ -68,15 +69,18 @@ npm run dev
 Both commands will start the development server using `docmd dev`, and you can view the project in your browser at `http://localhost:3000` (or the port specified in the terminal).
 
 #### Build the Site
+
 To build the site for production, use:
 
 ```bash
 npm run build
 ```
 
+,
 This will create a production build using `docmd build`.
 
 #### Preview the Built Site
+
 To preview the built site locally, use:
 
 ```bash
@@ -98,6 +102,7 @@ To configure or customize the site, follow these steps:
 
 3. **Add Images**:
    - Place new images in the `assets/images/` directory and reference them in your content or styles.
+   - The site favicon is located at `assets/favicon.ico` and is configured in `docmd.config.js`.
 
 4. **Update JavaScript**:
    - Modify or add JavaScript files in the `assets/js/` directory to enhance functionality.
