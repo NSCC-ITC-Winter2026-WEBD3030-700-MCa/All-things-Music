@@ -9,16 +9,36 @@ description: "Our favourite folk songs."
 The home base for all things folk music
 :::
 
-This page records all kinds of folk songs telling the stories and experiences of a people or culture from all around the world.
+Folk music is a genre rooted in the oral traditions of communities around the world, telling stories of everyday life, struggle, love, and history. From acoustic ballads to protest songs, folk music has always been the voice of the people.
 
-## Song Name
+## Blowin' in the Wind
 
 ::: card
-1. Blowin’ in the Wind by Bob Dylan (1962).
+**Blowin' in the Wind** by Bob Dylan (1962)
+
+One of Bob Dylan's most celebrated songs, posing rhetorical questions about peace, freedom, and war. A defining anthem of the 1960s civil rights and anti-war movements.
 :::
 
-## Song Name
+## The Sound of Silence
 
 ::: card
-...
+**The Sound of Silence** by Simon & Garfunkel (1964)
+
+A haunting acoustic folk song exploring themes of isolation and failed communication. Later re-recorded with electric instrumentation, it became a massive commercial hit.
+:::
+
+## Both Sides Now
+
+::: card
+**Both Sides Now** by Joni Mitchell (1969)
+
+A reflective and poetic folk classic from Joni Mitchell's landmark album *Clouds*, exploring life's illusions and the complexity of human experience.
+:::
+
+## Fast Car
+
+::: card
+**Fast Car** by Tracy Chapman (1988)
+
+A deeply moving folk-pop song about escaping poverty and searching for a better life. One of the most powerful and enduring songs of the 1980s.
 :::
