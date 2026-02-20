@@ -39,6 +39,8 @@ module.exports = {
     { title: 'Introduction', path: '/', icon: 'home' },
     { title: 'About', path: '/about', icon: 'book-open' },
     { title: 'Feedback', path: '/feedback', icon: 'message' },
+    { title: 'Did You Know?', path: '/fun-facts', icon: 'sparkles' },
+
     {
       title: 'Genres',
       icon: 'music',
