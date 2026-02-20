@@ -3,7 +3,24 @@ title: "Welcome"
 description: "Welcome to your new documentation site."
 ---
 
-# Welcome to Your Docs
+## 🎵 Quick Shortcuts
+
+Jump to popular content:
+
+- **Genres:**
+	- [Blues](genres/blues.md)
+	- [Classical](genres/classical.md)
+	- [Electronic](genres/electronic.md)
+	- [Folk](genres/folk.md)
+	- [Hip-Hop](genres/hip-hop.md)
+	- [Jazz](genres/jazz.md)
+	- [Pop](genres/pop.md)
+	- [Rap](genres/rap.md)
+	- [Rock](genres/rock.md)
+- **Instruments:**
+	- [Guitar](instruments/guitar.md)
+- [Feedback](../feedback.md)
+- [Contributing](../CONTRIBUTING.md)
 
 Congratulations! You have successfully initialized a new **docmd** project.
 

@@ -41,7 +41,7 @@ module.exports = {
     {
       title: 'Genres',
       icon: 'music',
-      collapsible: false,
+      collapsible: true,
       children: [
         { title: 'Blues', path: '/genres/blues', icon: 'hand-fist' },
         { title: 'Classical', path: '/genres/classical', icon: 'music-4' },
@@ -52,6 +52,13 @@ module.exports = {
         { title: 'Pop', path: '/genres/pop', icon: 'mic-vocal' },
         { title: 'Rap', path: '/genres/rap', icon: 'headphones' },
         { title: 'Rock', path: '/genres/rock', icon: 'activity' },
+      ],
+    },
+    {
+      title: 'Instruments',
+      icon: 'guitar',
+      collapsible: false,
+      children: [
       ],
     },
     { title: 'GitHub', path: 'https://github.com/docmd-io/docmd', icon: 'github', external: true },
