@@ -1,0 +1,55 @@
+/* Genre-specific navigation hover and active colors */
+
+/* Blues - Blue tones */
+.sidebar-nav a[href*="genres/blues"]:hover,
+.sidebar-nav a[href*="genres/blues"].active {
+  color: #4169E1 !important;
+}
+
+/* Classical - Elegant purple */
+.sidebar-nav a[href*="genres/classical"]:hover,
+.sidebar-nav a[href*="genres/classical"].active {
+  color: #8B4789 !important;
+}
+
+/* Electronic - Electric cyan */
+.sidebar-nav a[href*="genres/electronic"]:hover,
+.sidebar-nav a[href*="genres/electronic"].active {
+  color: #00CED1 !important;
+}
+
+/* Folk - Earthy brown */
+.sidebar-nav a[href*="genres/folk"]:hover,
+.sidebar-nav a[href*="genres/folk"].active {
+  color: #8B7355 !important;
+}
+
+/* Hip-Hop - Bold orange */
+.sidebar-nav a[href*="genres/hip-hop"]:hover,
+.sidebar-nav a[href*="genres/hip-hop"].active {
+  color: #FF8C00 !important;
+}
+
+/* Jazz - Gold/brass */
+.sidebar-nav a[href*="genres/jazz"]:hover,
+.sidebar-nav a[href*="genres/jazz"].active {
+  color: #DAA520 !important;
+}
+
+/* Pop - Vibrant pink */
+.sidebar-nav a[href*="genres/pop"]:hover,
+.sidebar-nav a[href*="genres/pop"].active {
+  color: #FF1493 !important;
+}
+
+/* Rap - Intense red */
+.sidebar-nav a[href*="genres/rap"]:hover,
+.sidebar-nav a[href*="genres/rap"].active {
+  color: #DC143C !important;
+}
+
+/* Rock - Dark red/edgy */
+.sidebar-nav a[href*="genres/rock"]:hover,
+.sidebar-nav a[href*="genres/rock"].active {
+  color: #8B0000 !important;
+}

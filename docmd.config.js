@@ -24,7 +24,7 @@ module.exports = {
     enableModeToggle: true, // Show mode toggle button
     positionMode: 'top',    // 'top' or 'bottom'
     codeHighlight: true,    // Enable Highlight.js
-    customCss: [],          // e.g. ['assets/css/custom.css']
+    customCss: ['assets/css/genre-colors.css'],
   },
 
   // --- Features ---
