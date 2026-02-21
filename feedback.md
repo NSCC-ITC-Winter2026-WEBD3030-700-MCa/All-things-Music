@@ -1,6 +1,6 @@
 # Feedback
 
-Feedback Form Questions    
+Feedback Form Questions: 
 
 Thank you for taking the time to share your thoughts about the All Things Music application. Your feedback helps us improve the experience for everyone.
 
@@ -8,27 +8,27 @@ Do not copy or fill out this form here as this is just an example and a deeper d
 Copy the form below and fill it out.
 
 
-Name
+Name:
 Who are you? First name or full name
 
 Your answer here: Ex: Lebron Raymone James/Lebron/Lebron James.
 
-Repository/Team You’re From
+Repository/Team You’re From:
 Which repository, class or team are you contributing from?
 
 Your answer here: Ex: All-Things-Music/Music Repository.
 
-What Do You Like So Far?
+What Do You Like So Far?:
 What features, design elements or content stand out in a positive way?
 
 Your answer here: Ex: Great Colours/Easy to use navbar.
 
-What Will You Improve?
+What Will You Improve?:
 What feels confusing, missing, or could be better?
 
 Your answer here: Ex: absolutely nothing this site is legendary.
 
-Quality Feedback Instructions
+Quality Feedback Instructions:
 To help us make the application instructions better please let us know what we could add or remove to make it easier for you to run this application.
 
 Your answer here: Ex: Go into more detail.
