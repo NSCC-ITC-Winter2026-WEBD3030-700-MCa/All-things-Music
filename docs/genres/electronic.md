@@ -20,5 +20,5 @@ This page records all kinds of electronic songs, from house to hardcore, techno 
 ## Song Name
 
 ::: card
-...
+No songs added yet — be the first contributor.
 :::

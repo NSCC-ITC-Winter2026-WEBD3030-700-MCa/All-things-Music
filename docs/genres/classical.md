@@ -20,5 +20,5 @@ This page records all kinds of classical songs celebrating different cultures fr
 ## Song Name
 
 ::: card
-...
+No songs added yet — be the first contributor.
 :::

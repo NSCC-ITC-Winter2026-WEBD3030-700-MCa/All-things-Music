@@ -20,5 +20,5 @@ This page records all kinds of rap songs centered around rhythm and rhymes from 
 ## Song Name
 
 ::: card
-...
+No songs added yet — be the first contributor.
 :::
