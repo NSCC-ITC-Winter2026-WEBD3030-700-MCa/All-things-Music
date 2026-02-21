@@ -59,4 +59,20 @@ Feedback From classmates Down below:
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+
 #1 
+Feedback Entry
+Name:  
+Darius Naugler
+
+Repo / Team:  
+All things food
+
+What You Like:  
+side Nav bar and logos on categories in side nav bar
+
+What You Would Improve:  
+Add more content in the genres
+
+Instructions Easy Or Not?:  
+Yes very good but update the cd all things music to nothing unless they are in a terminal outside of vs code.
