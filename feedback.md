@@ -4,7 +4,7 @@ Feedback Form Questions
 
 Thank you for taking the time to share your thoughts about the All Things Music app. Your feedback helps us improve the experience for everyone.
 
-Do not copy or fill out this form here this is just an example and a deeper dive on the questions below this.
+Do not copy or fill out this form here as this is just an example and a deeper dive on the questions below this.
 Copy the form below and fill it out.
 
 
@@ -13,7 +13,7 @@ Who are you? First name or full name
 
 Your answer here: Ex: Lebron Raymone James/Lebron/Lebron James
 
-Repo / Team You’re From
+Repo/Team You’re From
 Which repo, class, or team are you contributing from?
 
 Your answer here: Ex: All-Things-Music/Music Repo
