@@ -19,6 +19,11 @@ Jump to popular content:
 	- [Rock](genres/rock.md)
 - **Instruments:**
 	- [Guitar](instruments/guitar.md)
+	- [Piano](instruments/piano.md)
+	- [Drums](instruments/drums.md)
+	- [Bass](instruments/bass.md)
+	- [Violin](instruments/violin.md)
+	- [Saxophone](instruments/saxophone.md)
 - [Feedback](../feedback.md)
 - [Contributing](../CONTRIBUTING.md)
 

@@ -62,6 +62,12 @@ module.exports = {
       icon: 'guitar',
       collapsible: false,
       children: [
+        { title: 'Guitar', path: '/instruments/guitar', icon: 'guitar' },
+        { title: 'Piano', path: '/instruments/piano', icon: 'piano' },
+        { title: 'Drums', path: '/instruments/drums', icon: 'drum' },
+        { title: 'Bass', path: '/instruments/bass', icon: 'music-2' },
+        { title: 'Violin', path: '/instruments/violin', icon: 'music-3' },
+        { title: 'Saxophone', path: '/instruments/saxophone', icon: 'music' },
       ],
     },
     { title: 'GitHub', path: 'https://github.com/docmd-io/docmd', icon: 'github', external: true },
