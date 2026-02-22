@@ -38,6 +38,7 @@ module.exports = {
   navigation: [
     { title: 'Introduction', path: '/', icon: 'home' },
     { title: 'About', path: '/about', icon: 'book-open' },
+    { title: 'Glossary', path: '/glossary', icon: 'book' },
     { title: 'Feedback', path: '/feedback', icon: 'message' },
     { title: 'Did You Know?', path: '/fun-facts', icon: 'sparkles' },
 

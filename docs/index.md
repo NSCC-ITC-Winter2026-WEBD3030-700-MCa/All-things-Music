@@ -19,6 +19,7 @@ Jump to popular content:
 	- [Rock](genres/rock.md)
 - **Instruments:**
 	- [Guitar](instruments/guitar.md)
+- [Glossary of Music Terms](glossary.md)
 - [Feedback](../feedback.md)
 - [Contributing](../CONTRIBUTING.md)
 
