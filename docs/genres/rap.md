@@ -4,6 +4,7 @@ description: "Our favourite rap songs."
 ---
 
 # Rap
+Rap focuses on lyrical delivery over beats, often emphasizing rhythm, wordplay, and storytelling.
 
 ::: callout tip
 The home base for all things rap music

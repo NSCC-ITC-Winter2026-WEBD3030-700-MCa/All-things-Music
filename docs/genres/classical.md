@@ -4,6 +4,7 @@ description: "Our favourite classical songs."
 ---
 
 # Classical
+Classical music features orchestral compositions, structured arrangements, and works from composers like Mozart and Beethoven.
 
 ::: callout tip
 The home base for all things classical music
