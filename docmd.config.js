@@ -5,12 +5,12 @@ module.exports = {
   siteUrl: '', // e.g. https://mysite.com (Critical for SEO/Sitemap)
 
   // --- Branding ---
-  logo: {
-    light: 'assets/images/docmd-logo-dark.png',
-    dark: 'assets/images/docmd-logo-light.png',
-    alt: 'Logo',
-    href: './',
-  },
+  // logo: {
+  //   light: 'assets/images/docmd-logo-dark.png',
+  //   dark: 'assets/images/docmd-logo-light.png',
+  //   alt: 'Logo',
+  //   href: './',
+  // },
   favicon: 'assets/favicon.ico',
 
   // --- Source & Output ---
