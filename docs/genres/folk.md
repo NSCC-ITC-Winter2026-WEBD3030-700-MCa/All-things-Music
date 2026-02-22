@@ -14,7 +14,9 @@ This page records all kinds of folk songs telling the stories and experiences of
 ## Song Name
 
 ::: card
-1. Blowin’ in the Wind by Bob Dylan (1962).
+1. Blowin’ in the Wind by [Bob Dylan](https://en.wikipedia.org/wiki/Bob_Dylan) (1962)
+	- [Learn more about the song](https://en.wikipedia.org/wiki/Blowin%27_in_the_Wind)
+	- [Listen on Spotify](https://open.spotify.com/track/3bunJ2g4XchDxy3p6wP8jE)
 :::
 
 ## Song Name

@@ -14,7 +14,9 @@ This page holds all kinds of rock songs, including genres such as alternative, m
 ## Song Name
 
 ::: card
-1. Sweet Home Alabama by Lynyrd Skynyrd (1974).
+1. Sweet Home Alabama by [Lynyrd Skynyrd](https://en.wikipedia.org/wiki/Lynyrd_Skynyrd) (1974)
+	- [Learn more about the song](https://en.wikipedia.org/wiki/Sweet_Home_Alabama)
+	- [Listen on Spotify](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg)
 :::
 
 ## Song Name
