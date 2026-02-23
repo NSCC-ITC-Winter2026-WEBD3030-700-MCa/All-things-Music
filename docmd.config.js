@@ -71,7 +71,13 @@ module.exports = {
       title: "Instruments",
       icon: "guitar",
       collapsible: false,
-      children: [],
+      children: [
+        { title: "Guitar", path: "/instruments/guitar", icon: "guitar" },
+        { title: "Piano", path: "/instruments/piano", icon: "piano" },
+        { title: "Drums", path: "/instruments/drums", icon: "drum" },
+        { title: "Bass", path: "/instruments/bass", icon: "music-2" },
+        { title: "Violin", path: "/instruments/violin", icon: "music" },
+      ],
     },
     {
       title: "GitHub",
