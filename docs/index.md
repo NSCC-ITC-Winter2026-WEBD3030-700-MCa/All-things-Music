@@ -8,15 +8,15 @@ description: "Welcome to your new documentation site."
 Jump to popular content:
 
 - **Genres:**
-	- [Blues](genres/blues.md)
-	- [Classical](genres/classical.md)
-	- [Electronic](genres/electronic.md)
-	- [Folk](genres/folk.md)
-	- [Hip-Hop](genres/hip-hop.md)
-	- [Jazz](genres/jazz.md)
-	- [Pop](genres/pop.md)
-	- [Rap](genres/rap.md)
-	- [Rock](genres/rock.md)
+	- [Blues](genres/blues)
+	- [Classical](genres/classical)
+	- [Electronic](genres/electronic)
+	- [Folk](genres/folk)
+	- [Hip-Hop](genres/hip-hop)
+	- [Jazz](genres/jazz)
+	- [Pop](genres/pop)
+	- [Rap](genres/rap)
+	- [Rock](genres/rock)
 - **Instruments:**
 	- [Guitar](instruments/guitar)
 	- [Piano](instruments/piano)
@@ -26,6 +26,8 @@ Jump to popular content:
 - **Artists:**
 	- [Artists & Hall of Fame](artists/1)
 	- [Artist Spotlight](artists/2)
+- **Albums:** 
+	- [Popular Albums by Decade](albums-by-decade)
 - [Feedback](../feedback)
 - [Contributing](../CONTRIBUTING.md)
 
