@@ -26,7 +26,7 @@ module.exports = {
     codeHighlight: true, // Enable Highlight.js
     customCss: ["assets/css/genre-colors.css"],
   },
-  customJs: ["assets/js/genre-song-count.js"],
+  customJs: ["assets/js/genre-song-count.js", "assets/js/back-to-top.js"],
 
   // --- Features ---
   search: true, // Built-in offline search
@@ -37,9 +37,9 @@ module.exports = {
 
   // --- Navigation (Sidebar) ---
   navigation: [
-    { title: 'Introduction', path: '/', icon: 'home' },
-    { title: 'How to Use', path: '/how-to-use', icon: 'help-circle' },
-    { title: 'About', path: '/about', icon: 'book-open' },
+    { title: "Introduction", path: "/", icon: "home" },
+    { title: "How to Use", path: "/how-to-use", icon: "help-circle" },
+    { title: "About", path: "/about", icon: "book-open" },
     { title: "Feedback", path: "/feedback", icon: "message" },
     { title: "Did You Know?", path: "/fun-facts", icon: "sparkles" },
     {
@@ -63,15 +63,21 @@ module.exports = {
       icon: "user-music",
       collapsible: true,
       children: [
-        { title: "Artist 1", path: "/artists/1", icon: "user" },
-        { title: "Artist 2", path: "/artists/2", icon: "user" },
+        { title: "Hall of Fame", path: "/artists/1", icon: "award" },
+        { title: "Artist Spotlight", path: "/artists/2", icon: "user" },
       ],
     },
     {
       title: "Instruments",
       icon: "guitar",
       collapsible: false,
-      children: [],
+      children: [
+        { title: "Guitar", path: "/instruments/guitar", icon: "guitar" },
+        { title: "Piano", path: "/instruments/piano", icon: "piano" },
+        { title: "Drums", path: "/instruments/drums", icon: "drum" },
+        { title: "Bass", path: "/instruments/bass", icon: "music-2" },
+        { title: "Violin", path: "/instruments/violin", icon: "music" },
+      ],
     },
     {
       title: "GitHub",
