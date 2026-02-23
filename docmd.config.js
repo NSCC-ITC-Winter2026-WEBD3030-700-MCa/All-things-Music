@@ -79,6 +79,7 @@ module.exports = {
         { title: "Violin", path: "/instruments/violin", icon: "music" },
       ],
     },
+    { title: "Albums by Decade", path: "/albums-by-decade", icon: "disc-3" },
     {
       title: "GitHub",
       path: "https://github.com/docmd-io/docmd",
