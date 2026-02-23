@@ -1,0 +1,104 @@
+/* Always show the navbar toggle button on all screen sizes */
+
+/* Ensure toggle button is always visible */
+.sidebar-toggle,
+.nav-toggle,
+[data-sidebar-toggle],
+button[aria-label*="menu" i],
+button[aria-label*="sidebar" i],
+button[aria-label*="navigation" i],
+.custom-nav-toggle {
+  display: inline-flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  width: 40px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Position the toggle button and make it move with sidebar state */
+.custom-nav-toggle {
+  position: fixed !important;
+  top: 5rem !important;
+  left: 260px !important;
+  z-index: 1001 !important;
+  transition: left 0.3s ease !important;
+}
+
+/* When sidebar is hidden, move button to the left */
+.sidebar-hidden .custom-nav-toggle,
+.sidebar-collapsed .custom-nav-toggle,
+body.sidebar-hidden .custom-nav-toggle,
+body.sidebar-collapsed .custom-nav-toggle {
+  left: 1rem !important;
+}
+
+/* Style the hamburger menu icon */
+.sidebar-toggle svg,
+.nav-toggle svg,
+[data-sidebar-toggle] svg,
+button[aria-label*="menu" i] svg,
+.custom-nav-toggle svg {
+  width: 24px;
+  height: 24px;
+  display: block;
+  transition: transform 0.2s ease;
+}
+
+/* Ensure SVG lines are visible */
+.custom-nav-toggle svg line {
+  stroke: #333 !important;
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+/* Dark mode support for icon */
+@media (prefers-color-scheme: dark) {
+  .custom-nav-toggle svg line {
+    stroke: #fff !important;
+  }
+  .custom-nav-toggle {
+    background: #1a1a1a !important;
+    border-color: #444 !important;
+  }
+}
+
+/* Force dark mode icon color when dark mode is active */
+[data-theme="dark"] .custom-nav-toggle svg line,
+.dark .custom-nav-toggle svg line,
+html.dark .custom-nav-toggle svg line {
+  stroke: #fff !important;
+}
+
+[data-theme="dark"] .custom-nav-toggle,
+.dark .custom-nav-toggle,
+html.dark .custom-nav-toggle {
+  background: #1a1a1a !important;
+  border-color: #444 !important;
+}
+
+/* Hover effect for hamburger icon */
+.sidebar-toggle:hover svg,
+.nav-toggle:hover svg,
+[data-sidebar-toggle]:hover svg,
+button[aria-label*="menu" i]:hover svg,
+.custom-nav-toggle:hover svg {
+  transform: scale(1.1);
+}
+
+.custom-nav-toggle:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
+}
+
+/* When sidebar is visible, don't let content shift */
+body:not(.sidebar-hidden) .content-area,
+body:not(.sidebar-collapsed) .content-area {
+  margin-left: 0;
+}
+
+/* Ensure toggle button is above everything */
+.sidebar-toggle,
+.custom-nav-toggle {
+  z-index: 1001 !important;
+}
