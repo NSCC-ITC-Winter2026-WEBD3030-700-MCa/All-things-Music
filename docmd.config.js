@@ -26,7 +26,7 @@ module.exports = {
     codeHighlight: true, // Enable Highlight.js
     customCss: ["assets/css/genre-colors.css"],
   },
-  customJs: ["assets/js/genre-song-count.js"],
+  customJs: ["assets/js/genre-song-count.js", "assets/js/back-to-top.js"],
 
   // --- Features ---
   search: true, // Built-in offline search
@@ -37,9 +37,9 @@ module.exports = {
 
   // --- Navigation (Sidebar) ---
   navigation: [
-    { title: 'Introduction', path: '/', icon: 'home' },
-    { title: 'How to Use', path: '/how-to-use', icon: 'help-circle' },
-    { title: 'About', path: '/about', icon: 'book-open' },
+    { title: "Introduction", path: "/", icon: "home" },
+    { title: "How to Use", path: "/how-to-use", icon: "help-circle" },
+    { title: "About", path: "/about", icon: "book-open" },
     { title: "Feedback", path: "/feedback", icon: "message" },
     { title: "Did You Know?", path: "/fun-facts", icon: "sparkles" },
     {
