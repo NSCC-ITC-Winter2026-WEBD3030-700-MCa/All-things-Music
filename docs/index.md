@@ -22,6 +22,8 @@ Jump to popular content:
 - **Artists:**
 	- [Artist 1](artists/1.md)
 	- [Artist 2](artists/2.md)
+- **Albums:**
+	- [Popular Albums by Decade](albums-by-decade.md)
 - [Feedback](../feedback.md)
 - [Contributing](../CONTRIBUTING.md)
 

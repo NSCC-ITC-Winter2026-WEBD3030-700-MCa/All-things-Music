@@ -73,6 +73,7 @@ module.exports = {
       collapsible: false,
       children: [],
     },
+    { title: "Albums by Decade", path: "/albums-by-decade", icon: "disc-3" },
     {
       title: "GitHub",
       path: "https://github.com/docmd-io/docmd",
