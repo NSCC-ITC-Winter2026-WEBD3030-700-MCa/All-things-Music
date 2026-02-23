@@ -19,6 +19,9 @@ Jump to popular content:
 	- [Rock](genres/rock.md)
 - **Instruments:**
 	- [Guitar](instruments/guitar.md)
+- **Artists:**
+	- [Artist 1](artists/1.md)
+	- [Artist 2](artists/2.md)
 - [Feedback](../feedback.md)
 - [Contributing](../CONTRIBUTING.md)
 

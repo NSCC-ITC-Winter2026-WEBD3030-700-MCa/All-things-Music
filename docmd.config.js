@@ -59,6 +59,15 @@ module.exports = {
       ],
     },
     {
+      title: "Artists",
+      icon: "user-music",
+      collapsible: true,
+      children: [
+        { title: "Artist 1", path: "/artists/1", icon: "user" },
+        { title: "Artist 2", path: "/artists/2", icon: "user" },
+      ],
+    },
+    {
       title: "Instruments",
       icon: "guitar",
       collapsible: false,
