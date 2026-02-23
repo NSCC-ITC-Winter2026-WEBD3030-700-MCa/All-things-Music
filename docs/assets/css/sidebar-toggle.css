@@ -1,0 +1,72 @@
+/* Custom Desktop Sidebar Toggle */
+
+/* Add toggle button container on desktop */
+.desktop-sidebar-toggle {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1001;
+    background-color: var(--sidebar-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.desktop-sidebar-toggle:hover {
+    background-color: var(--sidebar-link-active-bg);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.desktop-sidebar-toggle svg {
+    width: 24px;
+    height: 24px;
+    color: var(--sidebar-text);
+    transition: transform 0.3s ease;
+}
+
+/* Adjust position when sidebar is hidden */
+body.sidebar-hidden .desktop-sidebar-toggle {
+    left: 20px;
+}
+
+/* Sidebar animation states - NO CONTENT MOVEMENT */
+.sidebar {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    z-index: 1000;
+}
+
+body.sidebar-hidden .sidebar {
+    transform: translateX(-100%);
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* Adjust toggle button position when sidebar is visible */
+body:not(.sidebar-hidden) .desktop-sidebar-toggle {
+    left: 240px;
+}
+
+/* Icon rotation animation */
+body.sidebar-hidden .desktop-sidebar-toggle svg {
+    transform: rotate(180deg);
+}
+
+/* Hide on mobile - use existing mobile toggle instead */
+@media (max-width: 768px) {
+    .desktop-sidebar-toggle {
+        display: none;
+    }
+    
+    /* Reset transitions on mobile */
+    body.sidebar-hidden .sidebar {
+        transform: none;
+        opacity: 1;
+        pointer-events: auto;
+    }
+}

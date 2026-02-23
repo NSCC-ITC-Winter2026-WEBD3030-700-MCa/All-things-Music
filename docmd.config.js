@@ -24,9 +24,9 @@ module.exports = {
     enableModeToggle: true, // Show mode toggle button
     positionMode: "top", // 'top' or 'bottom'
     codeHighlight: true, // Enable Highlight.js
-    customCss: ["assets/css/genre-colors.css"],
+    customCss: ["assets/css/genre-colors.css", "assets/css/sidebar-toggle.css"],
   },
-  customJs: ["assets/js/genre-song-count.js"],
+  customJs: ["assets/js/genre-song-count.js", "assets/js/sidebar-toggle.js"],
 
   // --- Features ---
   search: true, // Built-in offline search
