@@ -23,5 +23,5 @@ This page holds all kinds of jazz songs, such as bebop, electro-swing, and many 
 ## Song Name
 
 ::: card
-...
+No songs added yet — be the first contributor.
 :::

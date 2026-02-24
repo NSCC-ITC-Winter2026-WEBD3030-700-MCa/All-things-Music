@@ -20,19 +20,17 @@ Jump to popular content:
 	- [Reggae](genres/reggae)
 	- [Rock](genres/rock)
 - **Instruments:**
-	- [Guitar](instruments/guitar.md)
-	- [Piano](instruments/piano.md)
-	- [Drums](instruments/drums.md)
-	- [Bass](instruments/bass.md)
-	- [Violin](instruments/violin.md)
+	- [Guitar](instruments/guitar)
+	- [Piano](instruments/piano)
+	- [Drums](instruments/drums)
+	- [Bass](instruments/bass)
+	- [Violin](instruments/violin)
 - **Artists:**
-	- [Artist 1](artists/1.md)
-	- [Artist 2](artists/2.md)
-- **Albums:**
-	- [Popular Albums by Decade](albums-by-decade.md)
-	- [Artists & Hall of Fame](artists/1.md)
-	- [Artist Spotlight](artists/2.md)
-- [Feedback](../feedback.md)
+	- [Artists & Hall of Fame](artists/1)
+	- [Artist Spotlight](artists/2)
+- **Albums:** 
+	- [Popular Albums by Decade](albums-by-decade)
+- [Feedback](../feedback)
 - [Contributing](../CONTRIBUTING.md)
 
 Congratulations! You have successfully initialized a new **docmd** project.

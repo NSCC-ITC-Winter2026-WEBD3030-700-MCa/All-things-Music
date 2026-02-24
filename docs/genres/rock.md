@@ -22,5 +22,5 @@ This page holds all kinds of rock songs, including genres such as alternative, m
 ## Song Name
 
 ::: card
-...
+No songs added yet — be the first contributor.
 :::
