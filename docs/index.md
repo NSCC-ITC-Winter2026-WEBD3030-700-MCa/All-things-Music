@@ -10,12 +10,14 @@ Jump to popular content:
 - **Genres:**
 	- [Blues](genres/blues.md)
 	- [Classical](genres/classical.md)
+	- [Country](genres/country)
 	- [Electronic](genres/electronic.md)
 	- [Folk](genres/folk.md)
 	- [Hip-Hop](genres/hip-hop.md)
 	- [Jazz](genres/jazz.md)
 	- [Pop](genres/pop.md)
 	- [Rap](genres/rap.md)
+	- [Reggae](genres/reggae)
 	- [Rock](genres/rock.md)
 - **Instruments:**
 	- [Guitar](instruments/guitar.md)
