@@ -23,5 +23,5 @@ This page records all kinds of blues songs expressing struggle and triumph from 
 ## Song Name
 
 ::: card
-...
+No songs added yet — be the first contributor.
 :::

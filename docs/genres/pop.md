@@ -23,5 +23,5 @@ This page holds all kinds of pop songs, with genres such as dance, rock and roll
 ## Song Name
 
 ::: card
-...
+No songs added yet — be the first contributor.
 :::
