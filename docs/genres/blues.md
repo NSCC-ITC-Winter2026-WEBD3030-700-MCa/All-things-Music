@@ -4,6 +4,7 @@ description: "Our favourite blues songs."
 ---
 
 # Blues
+Blues is a genre known for its emotional expression, simple chord progressions, and roots in African American history.
 
 ::: callout tip
 The home base for all things blues music
@@ -14,11 +15,13 @@ This page records all kinds of blues songs expressing struggle and triumph from 
 ## Song Name
 
 ::: card
-1. Little Red Rooster by Howlin’ Wolf (1961).
+1. Little Red Rooster by [Howlin’ Wolf](https://en.wikipedia.org/wiki/Howlin%27_Wolf) (1961) 
+	- [Learn more about the song](https://en.wikipedia.org/wiki/Little_Red_Rooster)
+	- [Listen on Spotify](https://open.spotify.com/track/3TicCqHq2gbgZx9pCoIV3n)
 :::
 
 ## Song Name
 
 ::: card
-...
+No songs added yet — be the first contributor.
 :::

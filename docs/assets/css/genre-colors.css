@@ -1,0 +1,84 @@
+/* Genre-specific navigation hover and active colors */
+
+/* Blues - Blue tones */
+.sidebar-nav a[href*="genres/blues"]:hover,
+.sidebar-nav a[href*="genres/blues"].active {
+  color: #4169e1 !important;
+}
+
+/* Classical - Elegant purple */
+.sidebar-nav a[href*="genres/classical"]:hover,
+.sidebar-nav a[href*="genres/classical"].active {
+  color: #8b4789 !important;
+}
+
+/* Electronic - Electric cyan */
+.sidebar-nav a[href*="genres/electronic"]:hover,
+.sidebar-nav a[href*="genres/electronic"].active {
+  color: #00ced1 !important;
+}
+
+/* Folk - Earthy brown */
+.sidebar-nav a[href*="genres/folk"]:hover,
+.sidebar-nav a[href*="genres/folk"].active {
+  color: #8b7355 !important;
+}
+
+/* Hip-Hop - Bold orange */
+.sidebar-nav a[href*="genres/hip-hop"]:hover,
+.sidebar-nav a[href*="genres/hip-hop"].active {
+  color: #ff8c00 !important;
+}
+
+/* Jazz - Gold/brass */
+.sidebar-nav a[href*="genres/jazz"]:hover,
+.sidebar-nav a[href*="genres/jazz"].active {
+  color: #daa520 !important;
+}
+
+/* Pop - Vibrant pink */
+.sidebar-nav a[href*="genres/pop"]:hover,
+.sidebar-nav a[href*="genres/pop"].active {
+  color: #ff1493 !important;
+}
+
+/* Rap - Intense red */
+.sidebar-nav a[href*="genres/rap"]:hover,
+.sidebar-nav a[href*="genres/rap"].active {
+  color: #dc143c !important;
+}
+
+/* Rock - Dark red/edgy */
+.sidebar-nav a[href*="genres/rock"]:hover,
+.sidebar-nav a[href*="genres/rock"].active {
+  color: #8b0000 !important;
+}
+
+/* Back to Top Button */
+#back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background-color: var(--accent-color, #0097ff);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  z-index: 999;
+  transition: opacity 0.3s ease;
+}
+
+#back-to-top.visible {
+  display: flex;
+}
+
+#back-to-top:hover {
+  opacity: 0.85;
+}
