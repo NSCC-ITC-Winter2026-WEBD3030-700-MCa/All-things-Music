@@ -8,17 +8,17 @@ description: "Welcome to your new documentation site."
 Jump to popular content:
 
 - **Genres:**
-	- [Blues](genres/blues.md)
-	- [Classical](genres/classical.md)
+	- [Blues](genres/blues)
+	- [Classical](genres/classical)
 	- [Country](genres/country)
-	- [Electronic](genres/electronic.md)
-	- [Folk](genres/folk.md)
-	- [Hip-Hop](genres/hip-hop.md)
-	- [Jazz](genres/jazz.md)
-	- [Pop](genres/pop.md)
-	- [Rap](genres/rap.md)
+	- [Electronic](genres/electronic)
+	- [Folk](genres/folk)
+	- [Hip-Hop](genres/hip-hop)
+	- [Jazz](genres/jazz)
+	- [Pop](genres/pop)
+	- [Rap](genres/rap)
 	- [Reggae](genres/reggae)
-	- [Rock](genres/rock.md)
+	- [Rock](genres/rock)
 - **Instruments:**
 	- [Guitar](instruments/guitar.md)
 	- [Piano](instruments/piano.md)
