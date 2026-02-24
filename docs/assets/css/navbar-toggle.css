@@ -1,0 +1,51 @@
+/* Hamburger Menu Button */
+.navbar-toggle-btn {
+    background: var(--sidebar-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    color: var(--sidebar-text);
+    cursor: pointer;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0.25em;
+    transition: all 0.2s ease;
+}
+
+.navbar-toggle-btn:hover {
+    background: var(--sidebar-link-active-bg);
+    border-color: var(--accent-color);
+}
+
+.navbar-toggle-btn svg {
+    width: 24px;
+    height: 24px;
+    stroke: currentColor;
+}
+
+.navbar-toggle-btn.active svg line:nth-child(1) {
+    transform-origin: center;
+    animation: rotateUp 0.3s ease forwards;
+}
+
+.navbar-toggle-btn.active svg line:nth-child(2) {
+    opacity: 0;
+}
+
+.navbar-toggle-btn.active svg line:nth-child(3) {
+    transform-origin: center;
+    animation: rotateDown 0.3s ease forwards;
+}
+
+@keyframes rotateUp {
+    to {
+        transform: rotate(-45deg) translateY(-8px);
+    }
+}
+
+@keyframes rotateDown {
+    to {
+        transform: rotate(45deg) translateY(8px);
+    }
+}
