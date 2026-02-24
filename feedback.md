@@ -76,3 +76,20 @@ Add more content in the genres
 
 Instructions Easy Or Not?:  
 Yes very good but update the cd all things music to nothing unless they are in a terminal outside of vs code.
+
+#2
+Feedback Entry
+Name:  
+Nicholas MacDonald
+
+Repo / Team:  
+All things books
+
+What You Like:  
+the feedback form
+
+What You Would Improve:  
+Nothing
+
+Instructions Easy Or Not?:  
+Yes
